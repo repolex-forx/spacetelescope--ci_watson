@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/spacetelescope/ci_watson/commit/d6fa926e4750ab777084454b1d0d50631ab8eda6",
       "git:hexsha": "d6fa926e4750ab777084454b1d0d50631ab8eda6",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/spacetelescope/ci_watson/commit/db5dd76e54626cdf4ef96a6364963178f0f60147",
